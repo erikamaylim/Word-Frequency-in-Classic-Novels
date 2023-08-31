@@ -1,4 +1,4 @@
-# Project from DataCamp
+# DataCamp Project
 
 ## Project Description
 In this Project, you'll scrape a novel from the website Project Gutenberg (which contains a large corpus of books) using the Python package requests. Then you'll extract words from this web data using BeautifulSoup. Finally, we'll dive into analyzing the distribution of words using the Natural Language ToolKit (nltk).
